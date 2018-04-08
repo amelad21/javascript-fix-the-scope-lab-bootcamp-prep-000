@@ -16,7 +16,7 @@ return 2 + n
 }
 
 
-var funkyFunction = 
+var funkyFunction = function outsidefunction()
 function funkyFunction() { 
   return 
 
