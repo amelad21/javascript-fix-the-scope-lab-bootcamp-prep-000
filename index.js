@@ -16,6 +16,7 @@ return 2 + n
 }
 
 
+var funkyFunction = 
 function funkyFunction() { 
   return 
 
