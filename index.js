@@ -16,11 +16,7 @@ return 2 + n
 }
 
 
-function theFunk(funkyFunction("FUNKY!") {
-  return theFunk
-}
-funkyFunction();
-console.log(theFunk);
-
+function funkyFunction() { 
+  return 
 
   
