@@ -16,10 +16,10 @@ return 2 + n
 }
 
 
-var funkyFunction = function outsidefunction()
+var funkyFunction = function outsidefunction() {
 return function insidefunction() {
   return "FUNKY"
+ }
 }
-
-
+console.log
   
