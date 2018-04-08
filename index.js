@@ -21,5 +21,5 @@ return function insidefunction() {
   return "FUNKY"
  }
 }
-console.log
+console.log(funkyFunction()())
   
