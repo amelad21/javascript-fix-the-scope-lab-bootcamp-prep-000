@@ -17,8 +17,9 @@ return 2 + n
 
 
 var funkyFunction = function outsidefunction()
-return function insidefunction()
-function funkyFunction() { 
-  return 
+return function insidefunction() {
+  return "FUNKY"
+}
+
 
   
